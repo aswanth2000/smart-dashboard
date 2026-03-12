@@ -1,0 +1,5 @@
+order_id,order_date,region,product_category,product_name,quantity,unit_price
+1,2024-01-01,Europe,Electronics,Laptop,2,900
+2,2024-01-02,Asia,Clothing,T-Shirt,5,20
+3,2024-01-03,North America,Electronics,Headphones,3,50
+4,2024-01-05,Europe,Home,Chair,1,120

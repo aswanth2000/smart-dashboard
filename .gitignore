@@ -1,0 +1,6 @@
+echo venv/ >> .gitignore
+echo __pycache__/ >> .gitignore
+echo *.pyc >> .gitignore
+echo node_modules/ >> .gitignore
+echo dist/ >> .gitignore
+echo .env >> .gitignore
